@@ -49,7 +49,7 @@ A modern, full-stack web application that generates production-ready Verilog RAM
 
 ```bash
 # Clone the repository
-git clone https://github.com/abhinavkannan/standaloneproject.git
+git clone https://github.com/tangoalphacor/standaloneproject.git
 cd standaloneproject
 
 # Install dependencies
